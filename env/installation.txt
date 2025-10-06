@@ -1,0 +1,7 @@
+Either (according to LeChat):
+
+conda env create -f nsac25.yml
+
+conda create --name nsac25 python=3.11
+conda activate nsac25
+pip install -r requirements.txt
